@@ -12,3 +12,6 @@ ENV/
 dist/
 build/
 *.log
+
+assets/
+result.json
